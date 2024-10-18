@@ -2,7 +2,10 @@ class Program{
 
 public static void main(String[] args){
 
-println();
+System.out.println("fea-121");
+System.out.println("fea-121");
+System.out.println("fea-121");
+
 
 
 }
